@@ -14,6 +14,7 @@ else if (operation == 'Multiply'){
 	is = x*y;
 }
 console.log(is);
+}
 
 calculator("Add",2,5);
 calculator("Subtract",2,5);
